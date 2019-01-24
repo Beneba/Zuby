@@ -232,6 +232,14 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav ul li.active > a {
   color: #fff !important;
 }
+.gtco-nav ul  li a {
+  background: #ffff;
+  color: #000;
+ 
+}
+.gtco-nav ul li a:hover {
+  color: black;
+}
 .gtco-nav.scrolled {
   background: #fff;
   webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.15);
@@ -794,7 +802,7 @@ form label {
 }
 
 #gtco-footer {
-  padding-top: 30px;
+  padding-top: 90px;
   background: #fafafa;
 }
 #gtco-footer .gtco-footer-links {
@@ -1298,6 +1306,9 @@ form label {
 
 
 /* Hero section */
+.hero{
+  margin-left: 100px
+}
 .hero-section
 {
   margin-top: 100px;
@@ -1310,9 +1321,17 @@ form label {
   padding-top: 4px;
 
 }
+#youtube-video
+{
+  background: lightgrey;
+}
+.youtube
+{
+  margin-right: 950px;
+}
  .awards{
 
-  margin-top: -120px;
+  margin-top: 0px
 
 } 
 .award-list{

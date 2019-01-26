@@ -124,6 +124,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav ul {
   padding: 0;
   margin: 1px 0 0 0;
+  margin-right: 120px;
 }
 .gtco-nav ul li {
   padding: 0;
@@ -235,6 +236,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav ul  li a {
   background: #ffff;
   color: #000;
+  
  
 }
 .gtco-nav ul li a:hover {
@@ -249,6 +251,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav.scrolled ul {
   padding: 0;
   margin: 1px 0 0 0;
+  margin-right: 120px;
 }
 .gtco-nav.scrolled ul li {
   padding: 0;
@@ -1351,6 +1354,11 @@ form label {
   margin-top: 113px;
   margin-left: 115px;
   font-size: 47px;
-  font-family: aria;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+.header{
+  margin-top: 0;
+  font-family: Bree Serif;
+  font-weight: bold;
 }

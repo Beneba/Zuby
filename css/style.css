@@ -125,6 +125,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   margin: 1px 0 0 0;
   margin-right: 120px;
+  font-size: 20px;
 }
 .gtco-nav ul li {
   padding: 0;
@@ -236,6 +237,8 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav ul  li a {
   background: #ffff;
   color: #000;
+  font-size: 17px;
+  font-weight: 300;
   
  
 }
@@ -503,7 +506,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-our-team,
 #gtco-contact {
   padding: 7em 0;
-  clear: both;
+  margin-top: -56px;
 }
 
 #gtco-about .img-shadow {
@@ -1327,6 +1330,7 @@ form label {
 #youtube-video
 {
   background: lightgrey;
+  margin-top: -240px;
 }
 .youtube
 {
@@ -1361,4 +1365,12 @@ form label {
   margin-top: 0;
   font-family: Bree Serif;
   font-weight: bold;
+}
+.container-fliud.books
+{
+
+  margin-right: 110px;
+  margin-left: 110px;
+  margin-top: 73px;
+
 }
